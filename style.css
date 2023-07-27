@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    background-size: cover;
+    background-repeat: repeat;
+    background-image: url("./Logo/sky2.PNG");
+    
+}
+
+
+.btn-completed {
+    background-color: green;
+    color: rgb(201, 18, 18);
+    /* Add any other desired styles */
+}
+.custom-input {
+    height: 60px;
+    color: red;
+  }
+
+.custom-button {
+    height: 60px;
+    width: 150px;
+  }
+.input-style{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: normal;
+  }
+
+ .btn-toggle{
+    border:1px solid rgb(59, 46, 18);
+   
+ }
+ 
+ .log-app-btn {
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  
+  
